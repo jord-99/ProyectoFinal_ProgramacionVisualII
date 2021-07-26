@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\bin\Debug\net5.0\Info.deps.json
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\bin\Debug\net5.0\Info.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\bin\Debug\net5.0\ref\Info.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\bin\Debug\net5.0\Info.pdb
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\bin\Debug\net5.0\Modelo.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\bin\Debug\net5.0\Modelo.pdb
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\obj\Debug\net5.0\Info.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\obj\Debug\net5.0\Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\obj\Debug\net5.0\Info.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\obj\Debug\net5.0\Info.AssemblyInfo.cs
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\obj\Debug\net5.0\Info.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\obj\Debug\net5.0\Info.csproj.CopyComplete
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\obj\Debug\net5.0\Info.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\obj\Debug\net5.0\ref\Info.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Info\obj\Debug\net5.0\Info.pdb

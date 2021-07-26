@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\bin\Debug\net5.0\Reportes.deps.json
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\bin\Debug\net5.0\Reportes.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\bin\Debug\net5.0\ref\Reportes.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\bin\Debug\net5.0\Reportes.pdb
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\obj\Debug\net5.0\Reportes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\obj\Debug\net5.0\Reportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\obj\Debug\net5.0\Reportes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\obj\Debug\net5.0\Reportes.AssemblyInfo.cs
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\obj\Debug\net5.0\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\obj\Debug\net5.0\Reportes.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\obj\Debug\net5.0\ref\Reportes.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Reportes\obj\Debug\net5.0\Reportes.pdb

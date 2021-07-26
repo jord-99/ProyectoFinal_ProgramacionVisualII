@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\bin\Debug\net5.0\Modelo.deps.json
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\bin\Debug\net5.0\Modelo.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\bin\Debug\net5.0\ref\Modelo.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\bin\Debug\net5.0\Modelo.pdb
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\obj\Debug\net5.0\Modelo.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\obj\Debug\net5.0\Modelo.pdb
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\bin\Debug\net5.0\Modelo.runtimeconfig.json
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\bin\Debug\net5.0\Modelo.runtimeconfig.dev.json
+C:\Users\User\source\repos\Proyecto_Final_VII\Modelo\obj\Debug\net5.0\Modelo.genruntimeconfig.cache
